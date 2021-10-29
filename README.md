@@ -1,4 +1,4 @@
-## olá! eu sou o Saimo
+## Olá! eu sou o Saimo
 
 - 🔭 Atuamente trabalho com backand em PHP e javaScript 
 - 🌱 estou estudando React e NodeJs
