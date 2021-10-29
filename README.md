@@ -1,13 +1,13 @@
 ## Olá! eu sou o Saimo
 
 - 🔭 Atuamente trabalho com backand em PHP e javaScript 
-- 🌱 estou estudando React e NodeJs
+- 🌱 Estou estudando React e NodeJs
 - 📫 Como entrar em contato comigo: (34) 98434-3376
 
 
 <div>
-<a href="https://github.com/gabrielsaimo">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielsaimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/gabrielsaimo">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielsaimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaimo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
@@ -35,7 +35,7 @@
 
 
 <div> 
- <a href="https://instagram.com/gabrielsaimo.1997/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/gabrielsaimo.1997/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsaimo68@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-saimo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
