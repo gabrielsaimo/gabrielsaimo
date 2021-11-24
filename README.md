@@ -1,6 +1,6 @@
 ## Olá! eu sou o Saimo
 
-- 🔭 Atuamente trabalho com backand em PHP e javaScript 
+- 🔭 Atuamente trabalho com Magento2, backand em PHP 
 - 🌱 Estou estudando React e NodeJs
 - 📫 Como entrar em contato comigo: (34) 98434-3376
 
