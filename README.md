@@ -1,6 +1,6 @@
 ## Olá! eu sou o Saimo
 
-- 🔭 Atuamente trabalho com Magento2, backand em PHP 
+- 🔭 Atuamente trabalho com Magento2, PHP e React Native
 - 🌱 Estou estudando Magento2 e NodeJs
 - 📫 Como entrar em contato comigo: (34) 98434-3376
 
