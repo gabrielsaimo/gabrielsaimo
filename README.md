@@ -15,7 +15,8 @@
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sai-ANDROID" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Sai-ANDROID" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+  <img align="center" alt="Sai-APPLE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="Sai-LINIX" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Sai-NODEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -29,7 +30,10 @@
   <img align="center" alt="Sai-JQUERY" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sai-CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sai-BOOTSTRAP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Sai-MYSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Sai-POSTGRES" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Sai-XCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Sai-GIT" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Sai-GITHUB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="Sai-GITLAB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
