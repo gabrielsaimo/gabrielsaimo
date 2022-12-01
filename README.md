@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sai-ANDROID" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
-  <img align="center" alt="Sai-APPLE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  <img align="center" alt="Sai-XCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Sai-LINIX" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Sai-NODEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -25,7 +25,6 @@
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Sai-MAGENTO" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
   <img align="center" alt="Sai-REACT" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sai-XCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Sai-VUEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Sai-ANGULAR" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Sai-JS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
