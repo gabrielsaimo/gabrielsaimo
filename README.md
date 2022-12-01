@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sai-ANDROID" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
-  <img align="center" alt="Sai-IOS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ios/ios-original.svg">
+  <img align="center" alt="Sai-LINIX" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Sai-NODEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Sai-DOCKER" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
