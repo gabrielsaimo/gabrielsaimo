@@ -22,6 +22,7 @@
   <img align="center" alt="Sai-MAGENTO" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
   <img align="center" alt="Sai-REACT" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Sai-VUEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Sai-ANGULAR" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Sai-JS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sai-JQUERY" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
