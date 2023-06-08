@@ -1,7 +1,7 @@
 ## Olá! eu sou o Saimo
 
 - 🔭 Atuamente trabalho com PHP , React Js e React Native
-- 🌱 Estou estudando NodeJs e .Net
+- 🌱 Estou estudando NodeJs e me especializando em React
 - 📫 Como entrar em contato comigo: (34) 98434-3376
 
 
