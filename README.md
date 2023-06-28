@@ -1,7 +1,7 @@
 ## Olá! eu sou o Saimo
 
-- 🔭 Atuamente trabalho com PHP , React Js e React Native
-- 🌱 Estou estudando NodeJs e me especializando em React
+- 🔭 Atuamente trabalho com PHP, React Js, React Native, Nest Js e Angular
+- 🌱 Estou estudando NestJs e me especializando em React
 - 📫 Como entrar em contato comigo: (34) 98434-3376
 
 
@@ -19,6 +19,7 @@
   <img align="center" alt="Sai-XCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg">
   <img align="center" alt="Sai-LINIX" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="center" alt="Sai-NestJS" height="60" width="70" src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667">
   <img align="center" alt="Sai-NODEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Sai-FLUTTER" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -40,7 +41,6 @@
   <img align="center" alt="Sai-GITHUB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="Sai-GITLAB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Sai-VSCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Sai-VSCODE" height="60" width="70" src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667">
   <img align="center" alt="Sai-JETOBRAINS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
   
 </div>
