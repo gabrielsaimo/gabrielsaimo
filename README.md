@@ -2,7 +2,7 @@
 
 - 🔭 Atuamente trabalho com PHP, React Js, React Native, Nest Js e Angular
 - 🌱 Estou estudando NestJs e me especializando em React
-- 📫 Como entrar em contato comigo: (34) 98434-3376
+- 📫 Como entrar em contato comigo: (11) 989539505
 
 
 <div>
