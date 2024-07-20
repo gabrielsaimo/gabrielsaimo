@@ -42,6 +42,8 @@
   <img align="center" alt="Sai-GITLAB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Sai-VSCODE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Sai-JETOBRAINS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg">
+   <img align="center" alt="Sai-SONARQUBE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg">
+  
   
 </div>
 
