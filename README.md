@@ -40,7 +40,8 @@
   <img align="center" alt="Sai-MYSQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Sai-POSTGRES" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Sai-ORACLE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Sai-ORACLE" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
+  <img align="center" alt="Sai-STORYBOOK" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg">
+  <img align="center" alt="Sai-VERCEL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg">
   <img align="center" alt="Sai-GIT" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Sai-GITHUB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
   <img align="center" alt="Sai-GITLAB" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
