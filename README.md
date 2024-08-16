@@ -21,6 +21,7 @@
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Sai-NestJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Sai-NODEJS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+   <img align="center" alt="Sai-BUN" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bun/bun-original.svg">
   <img align="center" alt="Sai-FLUTTER" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Sai-HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Sai-JS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
