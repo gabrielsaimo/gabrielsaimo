@@ -1,7 +1,5 @@
 ## Olá! eu sou o Saimo
 
-- 🔭 Atuamente trabalho com PHP, React Js, React Native, Nest Js e Angular
-- 🌱 especialista em React e Nest
 - 📫 Como entrar em contato comigo: (11) 989539505
 
 
