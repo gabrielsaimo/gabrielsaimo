@@ -1,8 +1,5 @@
 ## Olá! eu sou o Saimo
 
-- 📫 Como entrar em contato comigo: (11) 989539505
-
-
 <div>
   <a href="https://github.com/gabrielsaimo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielsaimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
