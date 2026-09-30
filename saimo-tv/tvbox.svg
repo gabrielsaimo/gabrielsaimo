@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="330" viewBox="0 0 620 330" role="img" aria-label="Saimo TV para TV Box">
+  <defs>
+    <linearGradient id="cor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <radialGradient id="brilho" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3B82F6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="forma"><rect width="620" height="330" rx="24"/></clipPath>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <g clip-path="url(#forma)">
+    <rect width="620" height="330" fill="#0B0B12"/>
+    <circle cx="560" cy="20" r="230" fill="url(#brilho)"/>
+    <g transform="translate(470 -30) scale(7)" opacity="0.06"><path d="M21 3H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.1-.9-2-2-2zm0 14H3V5h18v12z" fill="#FFFFFF"/></g>
+
+    <rect x="40" y="40" width="64" height="64" rx="18" fill="url(#cor)"/>
+    <g transform="translate(54 54) scale(1.5)"><path d="M21 3H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.1-.9-2-2-2zm0 14H3V5h18v12z" fill="#0B0B12"/></g>
+    <text x="124" y="64" class="t" font-size="12" font-weight="700" fill="#22D3EE" letter-spacing="1.6">ANDROID TV BOX</text>
+    <text x="124" y="96" class="t" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="-0.6">TV Box</text>
+
+    <g transform="translate(40 150)">
+      <circle cx="11" cy="11" r="11" fill="#22D3EE" fill-opacity="0.14"/>
+      <g transform="translate(4 4) scale(0.58)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#22D3EE"/></g>
+      <text x="34" y="16" class="t" font-size="16" fill="#D4D4D8">Feito para o controle remoto</text>
+    </g>
+    <g transform="translate(40 184)">
+      <circle cx="11" cy="11" r="11" fill="#22D3EE" fill-opacity="0.14"/>
+      <g transform="translate(4 4) scale(0.58)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#22D3EE"/></g>
+      <text x="34" y="16" class="t" font-size="16" fill="#D4D4D8">Guia de programação e troca de fonte sozinha</text>
+    </g>
+    <g transform="translate(40 218)">
+      <circle cx="11" cy="11" r="11" fill="#22D3EE" fill-opacity="0.14"/>
+      <g transform="translate(4 4) scale(0.58)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#22D3EE"/></g>
+      <text x="34" y="16" class="t" font-size="16" fill="#D4D4D8">Continuar assistindo no Google TV</text>
+    </g>
+
+    <g transform="translate(40 262)">
+      <rect width="176" height="44" rx="12" fill="url(#cor)"/>
+      <g transform="translate(18 10) scale(1)"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="#0B0B12"/></g>
+      <text x="50" y="28" class="t" font-size="16" font-weight="800" fill="#0B0B12">Baixar .apk</text>
+    </g>
+    <text x="236" y="289" class="t" font-size="14" fill="#71717A">Android 6 ou mais novo</text>
+  </g>
+  <rect x="0.5" y="0.5" width="619" height="329" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>

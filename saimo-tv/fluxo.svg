@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Como funciona: o SaimoPlayer guarda o catálogo e os releases; os cinco apps leem dele">
+  <defs>
+    <linearGradient id="marca" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="linha" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0.5"/>
+    </linearGradient>
+    <clipPath id="forma"><rect width="1280" height="340" rx="24"/></clipPath>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }
+      .fio { stroke-dasharray: 6 8; animation: corre 1.4s linear infinite; }
+      @keyframes corre { to { stroke-dashoffset: -28; } }
+      @media (prefers-reduced-motion: reduce) { .fio { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#forma)">
+    <rect width="1280" height="340" fill="#0B0B12"/>
+
+    <text x="48" y="58" class="t" font-size="12" font-weight="700" fill="#A78BFA" letter-spacing="1.6">COMO FUNCIONA</text>
+    <text x="48" y="90" class="t" font-size="26" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Um catálogo, cinco apps</text>
+
+    <!-- Hub -->
+    <g transform="translate(48 124)">
+      <rect width="440" height="172" rx="18" fill="#FFFFFF" fill-opacity="0.04" stroke="url(#marca)" stroke-width="1.5"/>
+      <rect x="24" y="24" width="44" height="44" rx="12" fill="url(#marca)"/>
+      <path d="M40 36L55 46L40 56Z" fill="#FFFFFF"/>
+      <text x="84" y="44" class="t" font-size="20" font-weight="800" fill="#FFFFFF">SaimoPlayer</text>
+      <text x="84" y="66" class="t" font-size="14" fill="#A1A1AA">o coração do projeto</text>
+      <text x="24" y="104" class="t" font-size="15" fill="#D4D4D8">Lista de canais e acervo de filmes e séries</text>
+      <text x="24" y="128" class="t" font-size="15" fill="#D4D4D8">Atualizado sozinho todo dia às 11h</text>
+      <text x="24" y="152" class="t" font-size="15" fill="#D4D4D8">Um release só com os instaladores de todos</text>
+    </g>
+
+    <!-- Fios -->
+    <path d="M488 210H560" stroke="#A78BFA" stroke-width="2"/>
+    <g fill="none" stroke="url(#linha)" stroke-width="2" class="fio">
+      <path d="M560 210 C 650 210, 650 132, 740 132"/>
+      <path d="M560 210 C 650 210, 650 172, 740 172"/>
+      <path d="M560 210 C 650 210, 650 212, 740 212"/>
+      <path d="M560 210 C 650 210, 650 252, 740 252"/>
+      <path d="M560 210 C 650 210, 650 292, 740 292"/>
+    </g>
+    <circle cx="488" cy="210" r="5" fill="#A78BFA"/>
+    <circle cx="560" cy="210" r="4" fill="#F472B6"/>
+
+    <!-- Apps -->
+    <g class="t" font-size="15">
+      <g transform="translate(740 114)">
+        <rect width="492" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.05"/>
+        <circle cx="18" cy="18" r="5" fill="#22D3EE"/>
+        <text x="34" y="23" font-weight="700" fill="#FFFFFF">TV Box</text>
+        <text x="160" y="23" fill="#A1A1AA">Kotlin, Media3</text>
+      </g>
+      <g transform="translate(740 154)">
+        <rect width="492" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.05"/>
+        <circle cx="18" cy="18" r="5" fill="#F472B6"/>
+        <text x="34" y="23" font-weight="700" fill="#FFFFFF">Celular</text>
+        <text x="160" y="23" fill="#A1A1AA">React Native, Expo</text>
+      </g>
+      <g transform="translate(740 194)">
+        <rect width="492" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.05"/>
+        <circle cx="18" cy="18" r="5" fill="#60A5FA"/>
+        <text x="34" y="23" font-weight="700" fill="#FFFFFF">Windows</text>
+        <text x="160" y="23" fill="#A1A1AA">Rust, egui, mpv</text>
+      </g>
+      <g transform="translate(740 234)">
+        <rect width="492" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.05"/>
+        <circle cx="18" cy="18" r="5" fill="#E4E4E7"/>
+        <text x="34" y="23" font-weight="700" fill="#FFFFFF">Mac</text>
+        <text x="160" y="23" fill="#A1A1AA">Swift, SwiftUI, AVKit</text>
+      </g>
+      <g transform="translate(740 274)">
+        <rect width="492" height="36" rx="10" fill="#FFFFFF" fill-opacity="0.05"/>
+        <circle cx="18" cy="18" r="5" fill="#A78BFA"/>
+        <text x="34" y="23" font-weight="700" fill="#FFFFFF">Site</text>
+        <text x="160" y="23" fill="#A1A1AA">React, Vite, Cloudflare Pages</text>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="339" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>

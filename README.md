@@ -1,12 +1,63 @@
-## Olá! eu sou o Saimo
-
-<div>
-  <a href="https://github.com/gabrielsaimo">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielsaimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsaimo&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <a href="https://saimo-tv.pages.dev">
+    <img src="saimo-tv/banner.svg" alt="Saimo TV: canais ao vivo, filmes e séries em qualquer tela" width="100%">
+  </a>
 </div>
 
-##
+<p align="center">
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases/latest"><img alt="Última versão" src="https://img.shields.io/github/v/release/gabrielsaimo/SaimoPlayer?style=for-the-badge&label=vers%C3%A3o&color=8B5CF6&labelColor=18181B"></a>
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gabrielsaimo/SaimoPlayer/total?style=for-the-badge&label=downloads&color=EC4899&labelColor=18181B"></a>
+  <a href="https://saimo-tv.pages.dev"><img alt="Site no ar" src="https://img.shields.io/website?url=https%3A%2F%2Fsaimo-tv.pages.dev&style=for-the-badge&label=site&up_message=no%20ar&color=22C55E&labelColor=18181B"></a>
+</p>
+
+<a href="https://saimo-tv.pages.dev"><img src="saimo-tv/site.svg" alt="Assista no navegador: saimo-tv.pages.dev" width="100%"></a>
+
+<p>
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases/latest/download/SaimoTV.apk"><img src="saimo-tv/tvbox.svg" alt="Baixar para TV Box (.apk)" width="49%"></a>
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases/latest/download/SaimoCell.apk"><img src="saimo-tv/celular.svg" alt="Baixar para celular Android (.apk)" width="49%"></a>
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases/latest/download/SaimoTV-Instalador.msi"><img src="saimo-tv/windows.svg" alt="Baixar para Windows (.msi)" width="49%"></a>
+  <a href="https://github.com/gabrielsaimo/SaimoPlayer/releases/latest/download/SaimoTV.dmg"><img src="saimo-tv/mac.svg" alt="Baixar para Mac (.dmg)" width="49%"></a>
+</p>
+
+<img src="saimo-tv/fluxo.svg" alt="Como funciona: o SaimoPlayer guarda o catálogo e os releases, e os cinco apps leem dele" width="100%">
+
+<table>
+  <tr>
+    <th align="left">Repositório</th>
+    <th align="left">O que é</th>
+    <th align="left">Feito com</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gabrielsaimo/SaimoPlayer"><b>SaimoPlayer</b></a></td>
+    <td>Catálogo de canais e acervo, releases e o app do Mac</td>
+    <td>Swift, SwiftUI, Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gabrielsaimo/SaimoTV-Android"><b>SaimoTV-Android</b></a></td>
+    <td>App para TV Box e Google TV, todo no controle remoto</td>
+    <td>Kotlin, Media3</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gabrielsaimo/Saimo-Cell-V2"><b>Saimo-Cell-V2</b></a></td>
+    <td>App para celular Android, com downloads e Chromecast</td>
+    <td>React Native, Expo</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gabrielsaimo/SaimoWin"><b>SaimoWin</b></a></td>
+    <td>App para Windows, um executável com o mpv ao lado</td>
+    <td>Rust, egui, mpv</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/gabrielsaimo/Saimo-TV"><b>Saimo-TV</b></a></td>
+    <td>Site, instalável como app</td>
+    <td>React, Vite, TypeScript</td>
+  </tr>
+</table>
+
+<br>
+
+## Olá! eu sou o Saimo
+
 
 
 <div style="display: inline_block"><br>
@@ -54,4 +105,7 @@
   <a href="https://www.linkedin.com/in/gabriel-saimo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   
-  ![Snake animation](https://github.com/gabrielsaimo/gabrielsaimo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielsaimo/gabrielsaimo/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Contribuições no GitHub" src="https://raw.githubusercontent.com/gabrielsaimo/gabrielsaimo/output/github-contribution-grid-snake.svg" width="100%">
+</picture>

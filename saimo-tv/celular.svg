@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="330" viewBox="0 0 620 330" role="img" aria-label="Saimo TV para Celular">
+  <defs>
+    <linearGradient id="cor" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <radialGradient id="brilho" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="forma"><rect width="620" height="330" rx="24"/></clipPath>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Inter, Roboto, Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <g clip-path="url(#forma)">
+    <rect width="620" height="330" fill="#0B0B12"/>
+    <circle cx="560" cy="20" r="230" fill="url(#brilho)"/>
+    <g transform="translate(470 -30) scale(7)" opacity="0.06"><path d="M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM17 19H7V5h10v14z" fill="#FFFFFF"/></g>
+
+    <rect x="40" y="40" width="64" height="64" rx="18" fill="url(#cor)"/>
+    <g transform="translate(54 54) scale(1.5)"><path d="M17 1.01L7 1c-1.1 0-2 .9-2 2v18c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-1.99-2-1.99zM17 19H7V5h10v14z" fill="#0B0B12"/></g>
+    <text x="124" y="64" class="t" font-size="12" font-weight="700" fill="#F472B6" letter-spacing="1.6">ANDROID</text>
+    <text x="124" y="96" class="t" font-size="30" font-weight="800" fill="#FFFFFF" letter-spacing="-0.6">Celular</text>
+
+    <g transform="translate(40 150)">
+      <circle cx="11" cy="11" r="11" fill="#F472B6" fill-opacity="0.14"/>
+      <g transform="translate(4 4) scale(0.58)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#F472B6"/></g>
+      <text x="34" y="16" class="t" font-size="16" fill="#D4D4D8">Canais, filmes e séries no bolso</text>
+    </g>
+    <g transform="translate(40 184)">
+      <circle cx="11" cy="11" r="11" fill="#F472B6" fill-opacity="0.14"/>
+      <g transform="translate(4 4) scale(0.58)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#F472B6"/></g>
+      <text x="34" y="16" class="t" font-size="16" fill="#D4D4D8">Baixa episódios para ver sem internet</text>
+    </g>
+    <g transform="translate(40 218)">
+      <circle cx="11" cy="11" r="11" fill="#F472B6" fill-opacity="0.14"/>
+      <g transform="translate(4 4) scale(0.58)"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z" fill="#F472B6"/></g>
+      <text x="34" y="16" class="t" font-size="16" fill="#D4D4D8">Chromecast e pular abertura</text>
+    </g>
+
+    <g transform="translate(40 262)">
+      <rect width="176" height="44" rx="12" fill="url(#cor)"/>
+      <g transform="translate(18 10) scale(1)"><path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="#0B0B12"/></g>
+      <text x="50" y="28" class="t" font-size="16" font-weight="800" fill="#0B0B12">Baixar .apk</text>
+    </g>
+    <text x="236" y="289" class="t" font-size="14" fill="#71717A">Android 7 ou mais novo</text>
+  </g>
+  <rect x="0.5" y="0.5" width="619" height="329" rx="23.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>

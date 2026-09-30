@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-label="Saimo TV: canais ao vivo, filmes e séries na TV, no celular, no computador e no navegador">
+  <defs>
+    <linearGradient id="marca" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <linearGradient id="texto" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+    <radialGradient id="brilhoRoxo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="brilhoRosa" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#EC4899" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="brilhoCiano" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="tela1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1E1B4B"/>
+      <stop offset="0.55" stop-color="#4C1D95"/>
+      <stop offset="1" stop-color="#9D174D"/>
+    </linearGradient>
+    <linearGradient id="tela2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0C4A6E"/>
+      <stop offset="1" stop-color="#312E81"/>
+    </linearGradient>
+    <linearGradient id="tela3" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#831843"/>
+      <stop offset="1" stop-color="#5B21B6"/>
+    </linearGradient>
+    <linearGradient id="reflexo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.14"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grade" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="cartao"><rect width="1280" height="440" rx="28"/></clipPath>
+    <style>
+      .t { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif; }
+      .pulso { animation: pulso 1.6s ease-in-out infinite; transform-origin: center; transform-box: fill-box; }
+      @keyframes pulso { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.35; transform: scale(0.7); } }
+      .flutua1 { animation: flutua 7s ease-in-out infinite; }
+      .flutua2 { animation: flutua 7s ease-in-out -2.3s infinite; }
+      .flutua3 { animation: flutua 7s ease-in-out -4.6s infinite; }
+      @keyframes flutua { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+      .barra { animation: barra 5s linear infinite; }
+      @keyframes barra { from { transform: scaleX(0.08); } to { transform: scaleX(1); } }
+      @media (prefers-reduced-motion: reduce) { .pulso, .flutua1, .flutua2, .flutua3, .barra { animation: none; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#cartao)">
+    <rect width="1280" height="440" fill="#07070D"/>
+    <rect width="1280" height="440" fill="url(#grade)"/>
+    <circle cx="1010" cy="120" r="360" fill="url(#brilhoRoxo)"/>
+    <circle cx="1200" cy="420" r="300" fill="url(#brilhoRosa)"/>
+    <circle cx="120" cy="-40" r="320" fill="url(#brilhoCiano)"/>
+
+    <!-- Marca -->
+    <g transform="translate(72 70)">
+      <rect width="64" height="64" rx="16" fill="url(#marca)"/>
+      <path d="M26 20L46 32L26 44Z" fill="#FFFFFF"/>
+      <text x="84" y="47" class="t" font-size="40" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Saimo<tspan fill="url(#texto)">TV</tspan></text>
+    </g>
+
+    <text x="72" y="210" class="t" font-size="50" font-weight="800" fill="#FFFFFF" letter-spacing="-1.5">Canais ao vivo, filmes</text>
+    <text x="72" y="268" class="t" font-size="50" font-weight="800" fill="url(#texto)" letter-spacing="-1.5">e séries em qualquer tela.</text>
+    <text x="72" y="310" class="t" font-size="19" fill="#A1A1AA">TV Box, celular, Windows, Mac e navegador.</text>
+    <text x="72" y="336" class="t" font-size="19" fill="#A1A1AA">Um catálogo só, atualizado todo dia.</text>
+
+    <!-- Números -->
+    <g transform="translate(72 364)" class="t">
+      <text y="26" font-size="26" font-weight="800" fill="#FFFFFF">900+</text>
+      <text y="48" font-size="13" fill="#A1A1AA" letter-spacing="1.2">CANAIS AO VIVO</text>
+      <rect x="146" y="4" width="1" height="44" fill="#FFFFFF" fill-opacity="0.12"/>
+      <text x="172" y="26" font-size="26" font-weight="800" fill="#FFFFFF">35 mil+</text>
+      <text x="172" y="48" font-size="13" fill="#A1A1AA" letter-spacing="1.2">FILMES</text>
+      <rect x="306" y="4" width="1" height="44" fill="#FFFFFF" fill-opacity="0.12"/>
+      <text x="332" y="26" font-size="26" font-weight="800" fill="#FFFFFF">11 mil+</text>
+      <text x="332" y="48" font-size="13" fill="#A1A1AA" letter-spacing="1.2">SÉRIES</text>
+      <rect x="466" y="4" width="1" height="44" fill="#FFFFFF" fill-opacity="0.12"/>
+      <text x="492" y="26" font-size="26" font-weight="800" fill="#FFFFFF">5</text>
+      <text x="492" y="48" font-size="13" fill="#A1A1AA" letter-spacing="1.2">PLATAFORMAS</text>
+    </g>
+
+    <!-- TV -->
+    <g class="flutua1">
+      <g transform="translate(780 86)">
+        <rect x="-10" y="-10" width="420" height="250" rx="20" fill="#000000" fill-opacity="0.35"/>
+        <rect width="400" height="230" rx="14" fill="#18181B" stroke="#FFFFFF" stroke-opacity="0.12"/>
+        <rect x="10" y="10" width="380" height="210" rx="8" fill="url(#tela1)"/>
+        <rect x="10" y="10" width="380" height="210" rx="8" fill="url(#reflexo)"/>
+        <g transform="translate(26 28)" class="t">
+          <rect width="84" height="24" rx="6" fill="#DC2626"/>
+          <circle cx="15" cy="12" r="4" fill="#FFFFFF" class="pulso"/>
+          <text x="26" y="17" font-size="12" font-weight="800" fill="#FFFFFF" letter-spacing="1">AO VIVO</text>
+        </g>
+        <text x="26" y="170" class="t" font-size="22" font-weight="800" fill="#FFFFFF">Jornal da noite</text>
+        <text x="26" y="192" class="t" font-size="13" fill="#E4E4E7" fill-opacity="0.8">20:30 - 21:15  ·  Guia de programação</text>
+        <rect x="26" y="202" width="348" height="4" rx="2" fill="#FFFFFF" fill-opacity="0.2"/>
+        <rect x="26" y="202" width="348" height="4" rx="2" fill="url(#marca)" class="barra" style="transform-origin: 26px 0"/>
+        <rect x="170" y="230" width="60" height="16" fill="#18181B"/>
+        <rect x="130" y="244" width="140" height="8" rx="4" fill="#27272A"/>
+      </g>
+    </g>
+
+    <!-- Celular -->
+    <g class="flutua2">
+      <g transform="translate(1110 196)">
+        <rect width="118" height="226" rx="22" fill="#18181B" stroke="#FFFFFF" stroke-opacity="0.14"/>
+        <rect x="7" y="7" width="104" height="212" rx="16" fill="url(#tela3)"/>
+        <rect x="7" y="7" width="104" height="212" rx="16" fill="url(#reflexo)"/>
+        <rect x="44" y="14" width="30" height="6" rx="3" fill="#000000" fill-opacity="0.6"/>
+        <rect x="17" y="34" width="84" height="48" rx="6" fill="#000000" fill-opacity="0.35"/>
+        <path d="M53 49L68 58L53 67Z" fill="#FFFFFF"/>
+        <rect x="17" y="92" width="38" height="56" rx="5" fill="#FFFFFF" fill-opacity="0.22"/>
+        <rect x="63" y="92" width="38" height="56" rx="5" fill="#FFFFFF" fill-opacity="0.16"/>
+        <rect x="17" y="156" width="38" height="56" rx="5" fill="#FFFFFF" fill-opacity="0.12"/>
+        <rect x="63" y="156" width="38" height="56" rx="5" fill="#FFFFFF" fill-opacity="0.2"/>
+      </g>
+    </g>
+
+    <!-- Notebook -->
+    <g class="flutua3">
+      <g transform="translate(690 290)">
+        <rect width="300" height="120" rx="10" fill="#18181B" stroke="#FFFFFF" stroke-opacity="0.12"/>
+        <rect x="8" y="8" width="284" height="112" rx="5" fill="url(#tela2)"/>
+        <rect x="8" y="8" width="284" height="112" rx="5" fill="url(#reflexo)"/>
+        <g fill="#FFFFFF">
+          <rect x="22" y="24" width="52" height="76" rx="5" fill-opacity="0.26"/>
+          <rect x="82" y="24" width="52" height="76" rx="5" fill-opacity="0.18"/>
+          <rect x="142" y="24" width="52" height="76" rx="5" fill-opacity="0.24"/>
+          <rect x="202" y="24" width="52" height="76" rx="5" fill-opacity="0.14"/>
+        </g>
+        <path d="M-24 120H324L312 136H-12Z" fill="#27272A"/>
+      </g>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1279" height="439" rx="27.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.08"/>
+</svg>
